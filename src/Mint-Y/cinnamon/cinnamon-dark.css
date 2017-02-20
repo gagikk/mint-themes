@@ -191,8 +191,8 @@ StScrollBar {
   border: 1px solid #d0d0d0;
   border-radius: 3px;
   padding: 5px 12px;
-  background-color: #fbeaa0;
-  color: #4a4a4a;
+  background-color: #ecff00;
+  color: #000000;
   font-size: 1em;
   font-weight: normal;
   text-align: center; }
@@ -209,7 +209,7 @@ StScrollBar {
   color: #D3D3D3;
   border: 1px solid #202020;
   border-radius: 3px;
-  background-color: rgba(47, 47, 47, 0.99); }
+  background-color: rgba(15, 15, 15, 0.85); }
   .menu.top {
     border-radius: 0 0 3px 3px; }
   .menu.bottom {
@@ -423,7 +423,7 @@ StScrollBar {
 .panel-top, .panel-bottom, .panel-left, .panel-right {
   color: #ffffff;
   border: none;
-  background-color: rgba(47, 47, 47, 0.99);
+  background-color: rgba(15, 15, 15, 0.7);
   font-size: 1em;
   padding: 0px; }
 .panel-top {
