@@ -637,7 +637,7 @@ StScrollBar {
   height: 25px;
   padding: 0.1em;
   margin: 2px;
-  border-radius: 12.5px; }
+  border-radius: 6px; }
 
 .calendar-day-heading {
   color: rgba(74, 74, 74, 0.85);
