@@ -20,4 +20,12 @@ else
     && $OPTIPNG -o7 --quiet $ASSETS_DIR/$i.png 
 fi
 done
+
+cp $ASSETS_DIR/toolbar-entry-border-active-bg.png menubar-toolbar/toolbar-entry-border-active-bg.png
+cp $ASSETS_DIR/toolbar-entry-border-bg.png menubar-toolbar/toolbar-entry-border-bg.png
+cp $ASSETS_DIR/toolbar-entry-border-disabled-bg.png menubar-toolbar/toolbar-entry-border-disabled-bg.png
+
+cp $ASSETS_DIR/menubar.png menubar-toolbar/menubar.png
+cp $ASSETS_DIR/menubar_button.png menubar-toolbar/menubar_button.png
+
 exit 0
